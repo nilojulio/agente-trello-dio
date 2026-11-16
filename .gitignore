@@ -1,0 +1,12 @@
+# Credenciais - nunca enviar para o GitHub
+.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos do ADK
+.adk/
